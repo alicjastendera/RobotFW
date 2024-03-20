@@ -5,3 +5,5 @@ Library     SeleniumLibrary
 
 
 *** Keywords ***
+Navigate To
+    SeleniumLibrary.Go To    ${URL}
